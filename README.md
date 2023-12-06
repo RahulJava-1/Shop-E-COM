@@ -1,12 +1,4 @@
-# PropShop Ecommerce Website With Django + React
-
-Live Demo can be viewed at https://www.buildproshop.com/
-
-This project is from my Django + React collaboration wih Brad Traversy. Full Course: https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1
-
-
-![DEMO](../master/static/images/proshop_django_demo.png)
-
+# Ecommerce Website With Django + React
 
 # Features
 * Full featured shopping cart
@@ -25,8 +17,8 @@ This project is from my Django + React collaboration wih Brad Traversy. Full Cou
 
 # Download & Setup Instructions
 
-* 1 - cd proshop_django
-* 2 - Create virtual environment: virtualenv myenv
+* 1 - cd Shop-E-COM
+* 2 - Create virtual environment: virtualenv penv
 * 3 - myenv\scripts\activate
 * 4 - pip install -r requirements.txt
 * 5 - python manage.py runserver
