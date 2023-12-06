@@ -19,7 +19,7 @@
 
 * 1 - cd Shop-E-COM
 * 2 - Create virtual environment: virtualenv penv
-* 3 - myenv\scripts\activate
+* 3 - penv\scripts\activate
 * 4 - pip install -r requirements.txt
 * 5 - python manage.py runserver
 
